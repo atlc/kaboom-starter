@@ -1,0 +1,8 @@
+{
+    "verbose": true,
+    "watch": ["game.ts"],
+    "ignore": ["build.js"],
+    "execMap": {
+        "ts": "npm run build"
+    }
+}
